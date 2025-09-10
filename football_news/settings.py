@@ -33,7 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "amar-hakim-footballnews.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://amar-hakim-footballnews.pbp.cs.ui.ac.id/"
+    "https://amar-hakim-footballnews.pbp.cs.ui.ac.id"
 ]
 
 
